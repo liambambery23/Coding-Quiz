@@ -1,4 +1,4 @@
-# Coding-Quiz
+# The-Office-Quiz
 This project uses Javascript to design a simple quiz game. In this game the users answers questions realted to the tv show "The Office". Once the user completes the quiz they are able to save their score to a Highscores page where the user is also able to see other scores from other players.
 
 ## Motivation
@@ -6,6 +6,7 @@ This project was created to showcase my knowledge of Javascript in a practical a
 
  
 ## Screenshots
+https://liambambery23.github.io/The-Office-Quiz/
 ![screenshot of index page](images/index.png)
 ![screenshot of highscore page](images/highscore.png)
 
